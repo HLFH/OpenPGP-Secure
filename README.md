@@ -3,7 +3,7 @@
 For now, we are not able to appreciate PGP at its full potential.
 
 Need OPENPGPKEY RR support ([see last related Internet-Draft](https://tools.ietf.org/html/draft-ietf-dane-openpgpkey-12)):
- - https://github.com/systemd/systemd/pull/2589 (will be released in systemd 230)
+ - https://github.com/systemd/systemd/pull/2589 (now released in systemd 230 on 2016-05-21)
  - https://bitbucket.org/vinay.sajip/python-gnupg/issues/32/add-gpg-21-compability
 
 Need ECC support: 
