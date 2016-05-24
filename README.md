@@ -7,7 +7,7 @@ Need OPENPGPKEY RR support ([see last related Internet-Draft](https://tools.ietf
  - https://bitbucket.org/vinay.sajip/python-gnupg/issues/32/add-gpg-21-compability
 
 Need ECC support: 
- - https://github.com/google/end-to-end/issues/388
+ - https://github.com/google/end-to-end/issues/319
  - https://github.com/RainLoop/rainloop-webmail/issues/1023
  - https://github.com/openpgpjs/openpgpjs/issues/428
  - https://github.com/openpgpjs/openpgpjs/issues/427
