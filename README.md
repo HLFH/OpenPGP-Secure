@@ -8,7 +8,7 @@ Need OPENPGPKEY RR support ([see related RFC](https://tools.ietf.org/html/rfc792
    Verify your OPENPGPKEY RR: `systemd-resolve --openpgp email@example.com`
  - The `python2-gnupg` dependency of `hash-slinger` [has been fixed on 2016-06-06 master branch](https://bitbucket.org/vinay.sajip/python-gnupg/issues/32/add-gpg-21-compability) and the 0.3.9 version will be released soon 
  
-   Generate your OPENPGPKEY RR: `openpgpkey --output rfc email@example.com`
+   Generate your OPENPGPKEY RR: `openpgpkey --output rfc email@example.com`  
 N.B.: `python2-unbound` dependency of `hash-slinger` is really heavy because it depends also of `unbound` recursive DNS server package.
 
 Need ECC support: 
