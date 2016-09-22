@@ -18,4 +18,5 @@ Need ECC support:
  - https://www.huque.com/bin/openpgpkey
  - https://github.com/open-keychain/open-keychain/issues/1533
  - https://github.com/open-keychain/open-keychain/issues/1627
+ - https://github.com/keybase/keybase-issues/issues/1738
  - https://github.com/keybase/keybase-issues/issues/2213
