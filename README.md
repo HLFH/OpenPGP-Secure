@@ -8,7 +8,8 @@ Need OPENPGPKEY RR support ([see related RFC](https://tools.ietf.org/html/rfc792
 
  - The `python2-gnupg` dependency of `hash-slinger` [has been fixed on 2016-06-06 master branch](https://bitbucket.org/vinay.sajip/python-gnupg/issues/32/add-gpg-21-compability) and the 0.3.9 version with the patch has been released on 2016-09-10.  
    **Generate your OPENPGPKEY RR:** `openpgpkey --output rfc email@example.com`  
-N.B: `python2-unbound` dependency of `hash-slinger` is really heavy because it depends also of the `unbound` recursive DNS server package. So, it's now better [to generate your OPENPGPKEY RR with `gpg`](https://tools.ietf.org/html/rfc7929#appendix-A). Nevertheless, [`python2-unbound` could be fixed on Arch Linux](https://aur.archlinux.org/packages/python2-unbound/) by replacing the `unbound` dependency of `python2-unbound` by a new `libunbound2`/`unbound-libs` AUR package. 
+
+ - The `python2-unbound` dependency of `hash-slinger` is really heavy because it depends also of the `unbound` recursive DNS server package. Nevertheless, [`python2-unbound` could be fixed on Arch Linux](https://aur.archlinux.org/packages/python2-unbound/) by replacing the `unbound` dependency of `python2-unbound` by a new `libunbound2`/`unbound-libs` AUR package. For now, it's better [to generate your OPENPGPKEY RR with `gpg`](https://tools.ietf.org/html/rfc7929#appendix-A).
 
 Need ECC support: 
  - https://github.com/google/end-to-end/issues/319
