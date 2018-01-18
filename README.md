@@ -16,7 +16,8 @@ Need OPENPGPKEY RR support ([see related RFC](https://tools.ietf.org/html/rfc792
 
 Need ECC support: 
  - https://github.com/google/end-to-end/issues/319
- - https://github.com/RainLoop/rainloop-webmail/issues/1023
+ - ~~https://github.com/RainLoop/rainloop-webmail/issues/1023~~ CLOSED
+ - https://github.com/RainLoop/rainloop-webmail/issues/1618
  - ~~https://github.com/openpgpjs/openpgpjs/issues/428~~ DONE
  - https://github.com/openpgpjs/openpgpjs/issues/427
  - https://www.huque.com/bin/openpgpkey
