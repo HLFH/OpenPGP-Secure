@@ -21,7 +21,7 @@ Need ECC support:
   - ~~https://github.com/openpgpjs/openpgpjs/issues/427~~ DONE
  - ~~https://github.com/openpgpjs/openpgpjs/issues/428~~ DONE
  - https://www.huque.com/bin/openpgpkey
- - https://github.com/open-keychain/open-keychain/issues/1533
+ - ~~https://github.com/open-keychain/open-keychain/issues/1533~~ CLOSED
  - ~~https://github.com/open-keychain/open-keychain/issues/1627~~ CLOSED
- - ~~https://github.com/open-keychain/open-keychain/issues/2178~~ CLOSED
+ - https://github.com/open-keychain/open-keychain/issues/2178
  - Keybase [1](https://github.com/keybase/keybase-issues/issues/1738) & [2](https://github.com/keybase/keybase-issues/issues/2213) are being solved by the [`kbpgp` fork](https://github.com/zapu/kbpgp/tree/curve25519)
