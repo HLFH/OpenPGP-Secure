@@ -20,7 +20,7 @@ Need ECC support:
  - https://github.com/RainLoop/rainloop-webmail/issues/1618
   - ~~https://github.com/openpgpjs/openpgpjs/issues/427~~ DONE
  - ~~https://github.com/openpgpjs/openpgpjs/issues/428~~ DONE
- - https://www.huque.com/bin/openpgpkey
+ - ~~https://www.huque.com/bin/openpgpkey~~ DONE
  - ~~https://github.com/open-keychain/open-keychain/issues/1533~~ CLOSED
  - ~~https://github.com/open-keychain/open-keychain/issues/1627~~ CLOSED
  - https://github.com/open-keychain/open-keychain/issues/2178
