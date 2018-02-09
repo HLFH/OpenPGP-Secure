@@ -15,13 +15,14 @@ Need OPENPGPKEY RR support ([see related RFC](https://tools.ietf.org/html/rfc792
  - **For now, it's better [to generate your OPENPGPKEY RR with `gpg`](https://tools.ietf.org/html/rfc7929#appendix-A)**.
 
 Need ECC support: 
- - https://github.com/google/end-to-end/issues/319
+ - https://github.com/mailvelope/mailvelope/issues/547 MAIN ISSUE
+ - ~https://github.com/google/end-to-end/issues/319~ STALLED
  - ~~https://github.com/RainLoop/rainloop-webmail/issues/1023~~ CLOSED
- - https://github.com/RainLoop/rainloop-webmail/issues/1618
+ - ~https://github.com/RainLoop/rainloop-webmail/issues/1618~ STALLED
   - ~~https://github.com/openpgpjs/openpgpjs/issues/427~~ DONE
  - ~~https://github.com/openpgpjs/openpgpjs/issues/428~~ DONE
  - ~~https://www.huque.com/bin/openpgpkey~~ DONE
  - ~~https://github.com/open-keychain/open-keychain/issues/1533~~ CLOSED
  - ~~https://github.com/open-keychain/open-keychain/issues/1627~~ CLOSED
- - https://github.com/open-keychain/open-keychain/issues/2178
+ - ~https://github.com/open-keychain/open-keychain/issues/2178~ STALLED
  - Keybase [1](https://github.com/keybase/keybase-issues/issues/1738) & [2](https://github.com/keybase/keybase-issues/issues/2213) are being solved by the [`kbpgp` fork](https://github.com/zapu/kbpgp/tree/curve25519)
