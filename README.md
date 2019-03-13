@@ -15,7 +15,7 @@ Need OPENPGPKEY RR support ([see related RFC](https://tools.ietf.org/html/rfc792
  - **For now, it's better [to generate your OPENPGPKEY RR with `gpg`](https://tools.ietf.org/html/rfc7929#appendix-A)**.
 
 Need ECC support: 
- - https://github.com/mailvelope/mailvelope/issues/547 MAIN ISSUE
+ - ~https://github.com/mailvelope/mailvelope/issues/547~ CLOSED
  - ~https://github.com/google/end-to-end/issues/319~ STALLED
  - ~~https://github.com/RainLoop/rainloop-webmail/issues/1023~~ CLOSED
  - ~https://github.com/RainLoop/rainloop-webmail/issues/1618~ STALLED
