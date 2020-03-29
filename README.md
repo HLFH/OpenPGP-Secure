@@ -13,10 +13,6 @@ Need OPENPGPKEY RR support ([see related RFC](https://tools.ietf.org/html/rfc792
  > Packages are only split when **compelling** advantages exist.
  
  - **For now, it's better [to generate your OPENPGPKEY RR with `gpg`](https://tools.ietf.org/html/rfc7929#appendix-A)**.
- Choose *ECC* and then *Curve 25519*. 
- ```
- gpg2 --expert --full-gen-key
- ```
 
 Need ECC support: 
  - ~https://github.com/mailvelope/mailvelope/issues/547~ CLOSED
